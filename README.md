@@ -20,8 +20,6 @@ Only **Falcon 9 launches** were retained for analysis.
 
 ├── 01_API_Data_Collection.ipynb
 ├── 02_Data_Wrangling.ipynb
-├── 03_Exploratory_Data_Analysis.ipynb
-├── 04_Feature_Encoding_and_Modeling.ipynb
 ├── data/
 │ ├── falcon9_step1_api_data.csv
 │ ├── falcon9_step2_cleaned.csv
